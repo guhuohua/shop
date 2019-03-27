@@ -1,0 +1,84 @@
+{
+  "goods": {
+    "//       主图信息            ================================================：": 1,
+    "picUrl": "http://localhost:8080/storage/fetch/ac8ipznzwEZ4Ijay99mz.png",
+    "//       轮播图信息            ================================================：": 1,
+    "imgUrls": [
+      "http://localhost:8080/storage/fetch/wQHaJbqPaeYDNSa7ihzj.jpg",
+      "http://localhost:8080/storage/fetch/ZGNUrYw4ndpxSkKKSdb1.png",
+      "http://localhost:8080/storage/fetch/n0Y1oxHSsp4rwFBqhBbi.gif"
+    ],
+    "//       描述信息            ================================================：": 1,
+    "detail": "<p>dfsdf<img src=\"http://localhost:8080/storage/fetch/OiymcXjXndUWOaLZuBst.jpg\" alt=\"444\" width=\"109\" height=\"68\" />wo bugaonisi</p>",
+    "//       分类信息            ================================================：": 1,
+    "categoryId": 21,
+    "//       简介信息            ================================================：": 1,
+    "brief": "我是商品简介",
+    "keywords": "21,12",
+    "unit": "个",
+    "hot": 0,
+    "status": 0,
+    "price": "99.00",
+    "oriPrice": "99.10",
+    "title": "我是商品标题",
+    "goodsFlag": "10050123"
+  },
+  "// ===========================注释：": 1,
+  "attributes": [
+    {
+      "attribute": "黑色",
+      "value": "100"
+    }
+  ],
+  "// ===========================注释：": 1,
+  "specifications": [
+    {
+      "specification": "黑色",
+      "value": "1",
+      "picUrl": "http://localhost:8080/storage/fetch/rmXj6r01RYJ0lmADwAP8.jpg"
+    }
+  ],
+  "// ===========================注释：": 1,
+  "products": [
+    {
+      "id": 0,
+      "specifications": [
+        "1"
+      ],
+      "price": "90.0",
+      "number": "80",
+      "url": "http://localhost:8080/storage/fetch/VMBxTSit2QkZ5eSxHIiS.png"
+    }
+  ],
+  "付款成功": {
+    "transaction_id": "4200000197201810243497304982",
+    "nonce_str": "CdggdKTcbIPAlcgjgrrOwfgyfCHxrfOt",
+    "bank_type": "CFT",
+    "openid": "olBoZ44EjTMiinlUgi_CKDFoCU-k",
+    "sign": "05A7EDC15093D8ABB27BFF69E939DB0E",
+    "fee_type": "CNY",
+    "mch_id": "1516315381",
+    "cash_fee": "1",
+    "device_info": "WEB",
+    "out_trade_no": "89583262",
+    "appid": "wxaf153926cde74366",
+    "total_fee": "1",
+    "trade_type": "JSAPI",
+    "result_code": "SUCCESS",
+    "attach": "球球一号店",
+    "time_end": "20181024144042",
+    "is_subscribe": "N",
+    "return_code": "SUCCESS"
+  },
+  "address": {
+    "errMsg": "chooseAddress:ok",
+    "userName": "张三",
+    "nationalCode": "510000",
+    "telNumber": "020-81167888",
+    "postalCode": "510000",
+    "provinceName": "广东省",
+    "cityName": "广州市",
+    "countyName": "海珠区",
+    "detailInfo": "新港中路397号"
+  }
+}

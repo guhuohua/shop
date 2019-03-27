@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wxapp.shopapp.dao.UserDividendMapper">
+
+    <select id="findAllUserDividend" resultType="java.util.HashMap">
+        select d.id, sum(d.money) money, count(d.id) count, u.nickname, u.tel
+        from tbl_dividend d, tbl_user u
+        where d.user_id = u.u_id
+        group by d.user_id order by money desc;
+    </select>
+
+</mapper>

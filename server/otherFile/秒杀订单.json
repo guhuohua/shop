@@ -1,0 +1,58 @@
+{
+  "address": {
+    "cityName": "武汉",
+    "countyName": "中国",
+    "detailInfo": "detainfo",
+    "nationalCode": "430075",
+    "postalCode": "017",
+    "provinceName": "湖北",
+    "telNumber": "123456789",
+    "userName": "球球"
+  },
+  "id": 1,
+  "order": [
+    {
+      "price": 100.0,
+      "goodsList": [
+        {
+          "size": {
+            "createTime": 1541124849451,
+            "gFlag": "1007199391515332",
+            "gsId": 1,
+            "status": 1,
+            "text": "5斤装",
+            "url": "https://www.inbatu.com/wxshop/storage/fetch/9IRxFtkWfJhiv7zfkeGS.jpg",
+            "value": "1"
+          },
+          "count": 1,
+          "goods": {
+            "createTime": 1541124849203,
+            "describe": "皮光色艳 脆甜爽口 皮薄汁多 肉质细密",
+            "gFlag": "1007199391515332",
+            "gId": 1,
+            "hot": 0,
+            "imgUrl": "https://www.inbatu.com/wxshop/storage/fetch/rMyemrxZ67KndKadUTJH.jpg",
+            "keyword": "苹果",
+            "oriPrice": 98.5,
+            "price": 79.3,
+            "repertory": 999,
+            "shopId": 1,
+            "status": 1,
+            "title": "蔡家洼 山东富士 冰糖心苹果 新鲜水果 5斤装",
+            "type": 2,
+            "unit": "斤"
+          }
+        }
+      ],
+      "count": 1,
+      "goodsShopInfo": {
+        "name": "球球水果店",
+        "password": "qqmxd",
+        "shopId": 1,
+        "status": 1,
+        "url": "qqmxd",
+        "username": "qqmxd"
+      }
+    }
+  ]
+}

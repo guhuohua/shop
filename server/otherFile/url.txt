@@ -1,0 +1,137 @@
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=GskvrIUhodNNKKrYKTgShcngJHXdIxfF&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=971212835&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111353&time_start=20181023111353&total_fee=1&trade_type=JSAPI&key=Bzjre2shY4W4rgrPPr0ORoJyCKWvh8wQ
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=GskvrIUhodNNKKrYKTgShcngJHXdIxfF&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=971212835&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111353&time_start=20181023111353&total_fee=1&trade_type=JSAPI&key=Bzjre2shY4W4rgrPPr0ORoJyCKWvh8wQ
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=uhFiUjmGsZsTDAblzVymMZNzFEbrQojq&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1829799569&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111732&time_start=20181023111732&total_fee=1&trade_type=JSAPI&key=Bzjre2shY4W4rgrPPr0ORoJyCKWvh8wQ
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=uhFiUjmGsZsTDAblzVymMZNzFEbrQojq&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1829799569&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111732&time_start=20181023111732&total_fee=1&trade_type=JSAPI&key=Bzjre2shY4W4rgrPPr0ORoJyCKWvh8wQ
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=uhFiUjmGsZsTDAblzVymMZNzFEbrQojq&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1829799569&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111732&time_start=20181023111732&total_fee=1&trade_type=JSAPI&key=Bzjre2shY4W4rgrPPr0ORoJyCKWvh8wQ
+
+
+appid=wxaf153926cde74366&attach=支付测试4luluteam&body=JSAPI支付测试&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=uhFiUjmGsZsTDAblzVymMZNzFEbrQojq&notify_url=http://ebd893.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1829799569&sign_type=MD5&spbill_create_ip=0:0:0:0:0:0:0:1&time_expire=20181025111732&time_start=20181023111732&total_fee=1&trade_type=JSAPI
+<xml>
+  <appid><![CDATA[wxaf153926cde74366]]></appid>
+  <mch_id><![CDATA[1516315381]]></mch_id>
+  <device_info><![CDATA[WEB]]></device_info>
+  <nonce_str><![CDATA[uhFiUjmGsZsTDAblzVymMZNzFEbrQojq]]></nonce_str>
+  <sign_type><![CDATA[MD5]]></sign_type>
+  <body><![CDATA[JSAPI支付测试]]></body>
+  <attach><![CDATA[支付测试4luluteam]]></attach>
+  <out_trade_no><![CDATA[1829799569]]></out_trade_no>
+  <total_fee>1</total_fee>
+  <spbill_create_ip><![CDATA[0:0:0:0:0:0:0:1]]></spbill_create_ip>
+  <time_start><![CDATA[20181023111732]]></time_start>
+  <time_expire><![CDATA[20181025111732]]></time_expire>
+  <notify_url><![CDATA[http://ebd893.natappfree.cc/wxpay/payInfo]]></notify_url>
+  <trade_type><![CDATA[JSAPI]]></trade_type>
+  <limit_pay><![CDATA[no_credit]]></limit_pay>
+  <openid><![CDATA[olBoZ44EjTMiinlUgi_CKDFoCU-k]]></openid>
+  <sign><![CDATA[CB5EA1CAAFDBB6374E0D9B08452B2B73]]></sign>
+</xml>
+
+<xml>
+	<appid>wxaf153926cde74366</appid>
+	<attach>支付测试4luluteam</attach>
+	<body>JSAPI支付测试</body>
+	<device_info>WEB</device_info>
+	<limit_pay>no_credit</limit_pay>
+	<mch_id>1516315381</mch_id>
+	<nonce_str>uhFiUjmGsZsTDAblzVymMZNzFEbrQojq</nonce_str>
+	<notify_url>http://ebd893.natappfree.cc/wxpay/payInfo</notify_url>
+	<openid>olBoZ44EjTMiinlUgi_CKDFoCU-k</openid>
+	<out_trade_no>1829799569</out_trade_no>
+	<sign_type>MD5</sign_type>
+	<spbill_create_ip>0:0:0:0:0:0:0:1</spbill_create_ip>
+	<time_expire>20181025111732</time_expire>
+	<time_start>20181023111732</time_start>
+	<total_fee>1</total_fee>
+	<trade_type>JSAPI</trade_type>
+	<sign>CB5EA1CAAFDBB6374E0D9B08452B2B73</sign>
+</xml>
+
+appid=wxaf153926cde74366&nonceStr=PioPeFugoSWIKTobEjSkhTiJQsMxliOy&package=prepay_id=wx23175656146798016906007e3536672336&signType=MD5&timeStamp=1540288617&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+appId=wxaf153926cde74366&nonceStr=PioPeFugoSWIKTobEjSkhTiJQsMxliOy&package=prepay_id=wx23175656146798016906007e3536672336&signType=MD5&timeStamp=1540288617&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+
+
+
+appid=wxaf153926cde74366&nonceStr=eokQMJCnSyHRIOBFlAODvRGVPPSvKROG&package=prepay_id=wx2318272046978854c277155c2985617361&signType=MD5&timeStamp=1540290441&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+
+appId=wxaf153926cde74366&nonceStr=eokQMJCnSyHRIOBFlAODvRGVPPSvKROG&package=prepay_id=wx2318272046978854c277155c2985617361&signType=MD5&timeStamp=1540290441&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+
+appId=wxaf153926cde74366&nonceStr=eokQMJCnSyHRIOBFlAODvRGVPPSvKROG&package=prepay_id=wx2318272046978854c277155c2985617361&signType=MD5&timeStamp=1540290441
+
+微信：sign：286C73B2FA0E98E617CC297ED7BF640A
+
+
+<xml>
+  <appid>wxaf153926cde74366</appid>
+  <mch_id>1516315381</mch_id>
+  <device_info>WEB</device_info>
+  <nonce_str>vVQRxJCqfXChAtYqXTjGVlbUDTSZFTFT</nonce_str>
+  <sign>F941D11E21BB0AD9B1DEC430B340E398</sign>
+  <sign_type>MD5</sign_type>
+  <body>球球二号店</body>
+  <attach>球球二号店</attach>
+  <out_trade_no>1540281576213377622</out_trade_no>
+  <total_fee>110009</total_fee>
+  <spbill_create_ip>192.168.10.10</spbill_create_ip>
+  <time_start>20181024163524</time_start>
+  <time_expire>20181026163524</time_expire>
+  <notify_url>http://mjfffn.natappfree.cc/wxpay/payInfo</notify_url>
+  <trade_type>JSAPI</trade_type>
+  <limit_pay>no_credit</limit_pay>
+  <openid>olBoZ44EjTMiinlUgi_CKDFoCU-k</openid>
+</xml>
+
+
+<xml>
+  <appid>wxaf153926cde74366</appid>
+  <mch_id>1516315381</mch_id>
+  <device_info>WEB</device_info>
+  <nonce_str>mebnYlEKdUrAOUomYhPyDDChgguEUydz</nonce_str>
+  <sign>17CCAEB484209DE3F9CA1ED64B0ABB70</sign>
+  <sign_type>MD5</sign_type>
+  <body>球球二号店</body>
+  <attach>球球二号店</attach>
+  <out_trade_no>1540001961242667118</out_trade_no>
+  <total_fee>218000</total_fee>
+  <spbill_create_ip>192.168.10.10</spbill_create_ip>
+  <time_start>20181025102447</time_start>
+  <time_expire>20181027102447</time_expire>
+  <notify_url>http://mjfffn.natappfree.cc/wxpay/payInfo</notify_url>
+  <trade_type>JSAPI</trade_type>
+  <limit_pay>no_credit</limit_pay>
+  <openid>olBoZ44EjTMiinlUgi_CKDFoCU-k</openid>
+</xml>
+
+<xml>
+  <appid>wxaf153926cde74366</appid>
+  <mch_id>1516315381</mch_id>
+  <device_info>WEB</device_info>
+  <nonce_str>PvWCmjuLECtsykDMAOBqBudgLZSShCkQ</nonce_str>
+  <sign>BA462762D9D802B63478330912568FEB</sign>
+  <sign_type>MD5</sign_type>
+  <body>球球二号店</body>
+  <attach>球球二号店</attach>
+  <out_trade_no>1539404505888193389</out_trade_no>
+  <total_fee>436000</total_fee>
+  <spbill_create_ip>192.168.10.10</spbill_create_ip>
+  <time_start>20181025102744</time_start>
+  <time_expire>20181027102744</time_expire>
+  <notify_url>http://mjfffn.natappfree.cc/wxpay/payInfo</notify_url>
+  <trade_type>JSAPI</trade_type>
+  <limit_pay>no_credit</limit_pay>
+  <openid>olBoZ44EjTMiinlUgi_CKDFoCU-k</openid>
+</xml>
+
+appid=wxaf153926cde74366&attach=球球二号店&body=球球二号店&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=PvWCmjuLECtsykDMAOBqBudgLZSShCkQ&notify_url=http://mjfffn.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1539404505888193389&sign_type=MD5&spbill_create_ip=192.168.10.10&time_expire=20181027102744&time_start=20181025102744&total_fee=436000&trade_type=JSAPI&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+appid=wxaf153926cde74366&attach=球球二号店&body=球球二号店&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=PvWCmjuLECtsykDMAOBqBudgLZSShCkQ&notify_url=http://mjfffn.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1539404505888193389&sign_type=MD5&spbill_create_ip=192.168.10.10&time_expire=20181027102744&time_start=20181025102744&total_fee=436000&trade_type=JSAPI&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+
+
+appid=wxaf153926cde74366&attach=球球二号店&body=球球二号店&device_info=WEB&limit_pay=no_credit&mch_id=1516315381&nonce_str=PvWCmjuLECtsykDMAOBqBudgLZSShCkQ&notify_url=http://mjfffn.natappfree.cc/wxpay/payInfo&openid=olBoZ44EjTMiinlUgi_CKDFoCU-k&out_trade_no=1539404505888193389&sign_type=MD5&spbill_create_ip=192.168.10.10&time_expire=20181027102744&time_start=20181025102744&total_fee=436000&trade_type=JSAPI&key=n8UvrhanhFSjRCcZ1f1s0ljuipmX7w0U
+
+[10:27:44:659] [ERROR] - com.wxapp.shopapp.controller.wxapp.WXpayController.unif iedOrder(WXpayController.java:126) - md5 value: BA462762D9D802B63478330912568FEB
+
+
+PayInfo(id=null, appid=wxf2f4ded6354f9ba7, mch_id=1512785241, device_info=WEB, nonce_str=VYSfDYQpRGjPidYQkQkMBeQUzwASjLUI, sign=null, sign_type=MD5, body=球球一号店, attach=球球一号店, out_trade_no=1541062391378717890, total_fee=1, spbill_create_ip=192.168.10.10, time_start=20181101170248, time_expire=20181103170248, notify_url=http://inbole.com/wx_shop/wxpay/payInfo, trade_type=JSAPI, limit_pay=no_credit, openid=oIc5o5HrFX2FwhsJyzrNz7p7qKkQ, prepayId=null)
+[17:02:48:199] [ERROR] - com.wxapp.shopapp.controller.wxapp.WXpayController.getSign(WXpayController.java:209) - 排序后的拼接参数：
+[17:02:48:214] [ERROR] - com.wxapp.shopapp.controller.wxapp.WXpayController.unifiedOrder(WXpayController.java:126) - md5 value: E9F91379306B5366D6F80561E56983F7
+appid=wxf2f4ded6354f9ba7&attach=球球一号店&body=球球一号店&device_info=WEB&limit_pay=no_credit&mch_id=1512785241&nonce_str=VYSfDYQpRGjPidYQkQkMBeQUzwASjLUI&notify_url=http://inbole.com/wx_shop/wxpay/payInfo&openid=oIc5o5HrFX2FwhsJyzrNz7p7qKkQ&out_trade_no=1541062391378717890&sign_type=MD5&spbill_create_ip=192.168.10.10&time_expire=20181103170248&time_start=20181101170248&total_fee=1&trade_type=JSAPI&key=1uk0qRe1n0VE3aCPzYybdpzrfIMfkLy6
+appid=wxf2f4ded6354f9ba7&attach=球球一号店&body=球球一号店&device_info=WEB&limit_pay=no_credit&mch_id=1512785241&nonce_str=VYSfDYQpRGjPidYQkQkMBeQUzwASjLUI&notify_url=http://inbole.com/wx_shop/wxpay/payInfo&openid=oIc5o5HrFX2FwhsJyzrNz7p7qKkQ&out_trade_no=1541062391378717890&sign_type=MD5&spbill_create_ip=192.168.10.10&time_expire=20181103170248&time_start=20181101170248&total_fee=1&trade_type=JSAPI&key=1uk0qRe1n0VE3aCPzYybdpzrfIMfkLy6

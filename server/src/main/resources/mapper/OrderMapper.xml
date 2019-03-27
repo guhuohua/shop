@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wxapp.shopapp.dao.OrderMapper">
+
+
+    <select id="findAllOrderCount" resultType="int">
+        select count(*)
+        from tbl_order o left join tbl_user u on o.u_id = u.u_id
+        <where>
+            <if test="userId != ''">
+                AND u.u_id like concat('%',#{userId}, '%')
+            </if>
+            <if test="orderSn != ''">
+                AND o.ord_sn like concat('%',#{orderSn}, '%')
+            </if>
+            <if test="status != ''">
+                AND o.status in (#{status})
+            </if>
+        </where>
+    </select>
+
+    <select id="findAllOrder" resultType="java.util.Map">
+        select
+            o.`ord_id` as `ordId`,
+            o.`actual_price` as `actualPrice`,
+            o.`addr_id` as `addrId`,
+            o.`buy_msg` as `buyMsg`,
+            o.`confirm_time` as `confirmTime`,
+            o.`count` as `count`,
+            o.`create_time` as `createTime`,
+            o.`freight_price` as `freightPrice`,
+            o.`goods_price` as `goodsPrice`,
+            o.`ord_sn` as `ordSn`,
+            o.`order_price` as `orderPrice`,
+            o.`pay_id` as `payId`,
+            o.`pay_status` as `payStatus`,
+            o.`pay_time` as `payTime`,
+            o.`shop_id` as `shopId`,
+            o.`shop_name` as `shopName`,
+            o.`status` as `status`,
+            o.`u_id` as `uId`,
+            o.`ship_channel` as `shipChannel`,
+            o.`ship_sn` as `shipSn`,
+            o.`ship_time` as `shipTime`,
+        u.nickname, u.tel
+        from tbl_order o left join tbl_user u on o.u_id = u.u_id
+        <where>
+            <if test="userId != ''">
+                AND u.u_id like concat('%',#{userId}, '%')
+            </if>
+            <if test="orderSn != ''">
+                AND o.ord_sn like concat('%',#{orderSn}, '%')
+            </if>
+            <if test="status != ''">
+                AND o.status in (#{status})
+            </if>
+        </where>
+        limit #{index}, #{size}
+    </select>
+
+
+</mapper>

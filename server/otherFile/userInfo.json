@@ -1,0 +1,103 @@
+[
+  {
+    "res": {
+      "errMsg": "getUserInfo:ok",
+      "rawData": "{\"nickName\":\"球球\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Wuhan\",\"province\":\"Hubei\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132\"}",
+      "signature": "d33cf6bd89e02060eb1224b75b8bcc31bf2b73be",
+      "encryptedData": "zRYEpiLNTiLcbfu8jAiE6bU6Ve2uQXoN96o+Dg9g4CkRmxUETjfme43BXntGV4Jt8O+gk4Ea527Vvivg95SQy99A3ZCjQwisQkC7cEykHfTBjaW6/h0Oki36q2hUhvdgDlyxPzy8sZXWJUPmo+ENAx3KDwDeQUJksFmB1dbuzMCfiMvIwhczzwnVe8LguhIjla+06nY4MVBmA7Iyyt6CMG4lLJ48QEsEYiI788nPCyU2CdhgQDvsb5ZnaH2IfJTyfy3oW0nmV8B0+IfudbC6VRqihsWwaUMPM7aDi+E+A1hYMCkFBDKVBy2WVsZ/4dMCa3ee23CP9aRhfnKUvtJ3psSnoxgqTS2of17WS4ISETr6PS43KTvucAK1Syx3jtbqA64tUUvj20JuAi7dsg0QzeOaL2inv1OFgFnvNT5xn/o/MUpX3DouWGpD6xZUODJxaduxC+CFtE6MesDbdy9g2A==",
+      "iv": "BBnOMoN2J9WU3lvcOE7AyA==",
+      "userInfo": {
+        "nickName": "球球",
+        "gender": 1,
+        "language": "zh_CN",
+        "city": "Wuhan",
+        "province": "Hubei",
+        "country": "China",
+        "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132"
+      }
+    },
+    "code": "061e2T4r0A32Ho1xZ75r08nO4r0e2T4X"
+  },
+  {
+    "res": {
+      "errMsg": "getUserInfo:ok",
+      "rawData": "{\"nickName\":\"球球\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Wuhan\",\"province\":\"Hubei\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132\"}",
+      "signature": "9da36eefa8f7c4ce716f88d5e7a1fc49abdf1753",
+      "encryptedData": "hpN+VFkkfY4zA02jNfq4PAAW4TITM8qOorlmkVEBCJrS2qLa9K+XcF3O9oSZEmueSXv6XzuWsV3aHqh7BYqVNLOxpkuHP2p2kUKtP9y9pNYCZEDbLdYbt/D3XBXwZQSsx+pydIFxj+n0RAKtVvG0LLvO8oQdocBOFYInUyuP8YHejYtuLjsNmU+TgtV3rZ9iOgC8LhLzPJIBknSn0QakC50WykpqAmVZGL+60Ah5poCZuJ6C85EK4guZFSq8ZzfD7yEnwyl+GARNaYevpniC/XPFBAd3hmBdAb2gGtG47S2B6d5tNDdRqfCRW01+v5vj99RHc8eebJRaiLSQUH1Gxcav2MbXPRQX4vVWsz8SPNmSCL1dneNh0Iwq0bOjBrUH56WSz4NF4Y4jejuBDTJogWNcoCXk9jj8FYkTqtqAbmTU3mMLUrHk5tp5+4iR0tbpZVGefEJs2C3AxEKt95K+/w==",
+      "iv": "Ih9zYmsbM+OpCLwPoIH8Tg==",
+      "userInfo": {
+        "nickName": "球球",
+        "gender": 1,
+        "language": "zh_CN",
+        "city": "Wuhan",
+        "province": "Hubei",
+        "country": "China",
+        "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132"
+      }
+    },
+    "code": "011lw7fs06mWve1f2bhs0Pwnfs0lw7fS"
+  },
+  {
+    "res": {
+      "errMsg": "getUserInfo:ok",
+      "rawData": "{\"nickName\":\"球球\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Wuhan\",\"province\":\"Hubei\",\"country\":\"China\",\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132\"}",
+      "signature": "c8b2a0860c9bcb8b894ba1b4b4fddaa27eacf0d0",
+      "encryptedData": "yXAwSizf/EUGCroVLVmHF6mpTDqoWSNTaW0nsNZzMI/NGiazfxdYpraHqoA80yPhAOgF69n6Utqe4yRVsNXL6hG7GfXPN9TggaSog4Ac6nY8Uzf6DngzBEZPWLkY1SnIU7PUJKytivb92CxCjkRm1K+WCvUPGM8KnbZklFBjRFDqWPT1lQOQFJPPAIyPVkEHKxNFXpLnT3rpE2HopMrwruoERoD5qzldKzRVqDchcMLWZTeHkjBlHM/bu2AIqsU4E/87AG3xOII0dqg4DXN684nBNPRWXIG0HfBAyS5GVirGQsUfg4CbGLf5uYvth/qCFnlKVtA8TJ+fUB6cnK+bZErZHpQoCmKnXrzVq5shDeEihYS3bqwmYR4AALKYcyDgsyj2Cd/RwhUvmX8jVhbuVt0leJu3H2lxPVfEc9Z5lGQtmg7/hDPz4gh0XRtK6YVB2LvcNaPfncJ5lHL7q8STTA==",
+      "iv": "z6YzWdPiCWV4jFPHn4nOCw==",
+      "userInfo": {
+        "nickName": "球球",
+        "gender": 1,
+        "language": "zh_CN",
+        "city": "Wuhan",
+        "province": "Hubei",
+        "country": "China",
+        "avatarUrl": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTLjwo62K5xG3uoYdXoicOSb6ZXVfyqbmcEibBKeIBOkMYNoEgST9HuF1pmTeUiblCHCBiaQDvlcCE295w/132"
+      }
+    },
+    "code": "061ItfCy0rmQgh1wltAy0684Cy0ItfCa"
+  },
+  [
+    {
+      "count": 2,
+      "price": "57.60",
+      "goodsList": [
+        {
+          "goods": {
+            "title": "专用于朗动 内饰闪光膜碳纤贴膜 改装贴车内贴纸 中控碳纤维贴纸",
+            "price": 28.8,
+            "oriPrice": 37.44,
+            "sales": 93,
+            "imgUrl": "http://117.50.74.117:8080/image/goods/pic09.jpg",
+            "repertory": 239,
+            "status": 1,
+            "hot": 1,
+            "keyword": "导航",
+            "type": 1,
+            "createTime": 1534747997024,
+            "shopId": 101,
+            "gid": 29,
+            "gflag": "mxXXtfWfMFhXxzj0"
+          },
+          "count": 2,
+          "size": {
+            "gsId": 65,
+            "text": "白色",
+            "url": "http://117.50.74.117:8080/image/goods/pic09.jpg",
+            "status": 1,
+            "createTime": 1534752482215,
+            "gflag": "mxXXtfWfMFhXxzj0"
+          }
+        }
+      ],
+      "goodsShopInfo": {
+        "shopId": 101,
+        "username": "123123",
+        "password": "123123",
+        "name": "球球二号店",
+        "url": "zH2tQbPFBjKHbxbM",
+        "status": 1,
+        "createTime": 1534769726398
+      }
+    }
+  ]
+]
